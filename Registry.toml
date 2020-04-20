@@ -1,0 +1,10 @@
+name = "LocalRegistry"
+repo = "https://github.com/yngtodd/LocalRegistry.jl.git"
+uuid = "3f50a84c-82c1-11ea-01ee-a18f6fb40323"
+
+description = """
+My personal development registry.
+"""
+
+[packages]
+ae4e50cc-6dbb-4f20-9f13-c46e7dac87e8 = { name = "Pilot", path = "p/Pilot" }
